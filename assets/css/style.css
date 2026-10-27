@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #5e57c9;
+    background: linear-gradient(90deg, rgba(0, 212, 255, 1) 50%, rgba(9, 9, 121, 1) 100%); 
+}
+h1{
+    text-align: left;
+    font-size: 5em;
+}
+.corpo{
+ color: brown;
+}
+
+
+#imagem{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
