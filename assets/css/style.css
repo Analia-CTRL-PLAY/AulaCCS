@@ -1,0 +1,21 @@
+header {
+      background-color: #0366e7;
+      padding: 20px 0;
+    }
+
+    .logo {
+      color: white;
+      font-size: 26px;
+      font-weight: bold;
+      margin: 0;
+    }
+
+    .menu a {
+      color: white;
+      text-decoration: none;
+      padding: 10px;
+    }
+
+    .menu a:hover {
+      color: #60a5fa;
+    }
